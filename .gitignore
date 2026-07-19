@@ -2,3 +2,7 @@ env/
 .venv/
 __pycache__/
 .streamlit/
+
+# Carpetas de extensiones de IA locales
+.agents/
+.claude/
